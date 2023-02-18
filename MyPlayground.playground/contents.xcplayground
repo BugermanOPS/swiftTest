@@ -3,5 +3,7 @@
     <pages>
         <page name='ConstantLet'/>
         <page name='VariableTest'/>
+        <page name='Type'/>
+        <page name='Operator'/>
     </pages>
 </playground>
