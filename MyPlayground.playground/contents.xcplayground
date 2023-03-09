@@ -3,7 +3,11 @@
     <pages>
         <page name='ConstantLet'/>
         <page name='VariableTest'/>
-        <page name='Type'/>
+        <page name='Type_String'/>
         <page name='Operator'/>
+        <page name='Type_Array'/>
+        <page name='testCode'/>
+        <page name='Option'/>
+        <page name='Tuples'/>
     </pages>
 </playground>
